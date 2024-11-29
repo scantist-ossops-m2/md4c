@@ -30,9 +30,6 @@ Fixes:
    Fix reference link definition label matching in a case when the label ends
    with a Unicode character with non-trivial case folding mapping.
 
- * [#155](https://github.com/mity/md4c/issues/155):
-   Avoid reading 1 character beyond the input size in some complex cases.
-
 
 ## Version 0.4.6
 
