@@ -41,9 +41,6 @@ Fixes:
    Due the bug, the link definition label matching did not work in the case
    insensitive way for these characters.
 
- * [#155](https://github.com/mity/md4c/issues/155):
-   Avoid reading 1 character beyond the input size in some complex cases.
-
 
 ## Version 0.4.3
 
